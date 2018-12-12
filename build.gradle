@@ -9,9 +9,9 @@ buildscript {
         targetSdk = 27
         minSdk = 16
 
-        kotlinVersion = '1.2.31'
+        kotlinVersion = '1.2.71'
         supportLibVersion = '27.1.1'
-        poiVersion = '3.17'
+        poiVersion = '4.0.1'
     }
 
     dependencies {
